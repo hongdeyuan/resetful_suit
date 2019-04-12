@@ -1,0 +1,58 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.12.2018 01:59:38
+
+newmtl _m_shoes01Material__42
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka 20131025023140909161.jpg
+	map_Kd 20131025023140909161.jpg
+
+newmtl Material__26
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka  shoes04.png
+	map_Kd  shoes04.png
+
+newmtl Material__25
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka  shoes04.png
+	map_Kd  shoes04.png
+
+newmtl _m_shoes01Material__43
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka 20131025023140909161.jpg
+	map_Kd 20131025023140909161.jpg

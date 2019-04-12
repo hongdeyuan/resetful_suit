@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+form {
+	background: #C8BFBF;
+	width: 100%;
+  	height: 100%;
+}
+tr td{
+	cellpadding: 0;
+	cellspacing: 0;
+}
+tr p {
+	line-height: 10px;
+	text-align: center;
+}
+.button1 {
+	width: 100%;
+	height: 35px;
+	text-align: center;
+}
+.button1 button {
+	background: rgb(254,231,154);
+	background: -moz-linear-gradient(top,  rgba(254,231,154,1) 0%, rgba(254,193,81,1) 100%);
+	background: -webkit-linear-gradient(top,  rgba(254,231,154,1) 0%,rgba(254,193,81,1) 100%);
+	background: -o-linear-gradient(top,  rgba(254,231,154,1) 0%,rgba(254,193,81,1) 100%);
+	background: -ms-linear-gradient(top,  rgba(254,231,154,1) 0%,rgba(254,193,81,1) 100%);
+	background: linear-gradient(top,  rgba(254,231,154,1) 0%,rgba(254,193,81,1) 100%);
+	
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	-webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-ms-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	-o-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
+	border: 1px solid #D69E31;
+	color: #85592e;
+	cursor: pointer;
+	font: bold 15px Helvetica, Arial, sans-serif;
+	height: 35px;
+	
+	margin: 8px 0 10px 34%;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+	width: 30%;
+}

@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body, .container, .wraper {
+	width: 100%;
+	height: 100%;
+}
+.wraper {
+	position: relative;
+	
+}
+.container {
+	position: absolute;
+	display: flex;
+	justify-content: space-between;
+	z-index: 100;
+}
+.display {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 10;
+}
+.left {
+	width: 46%;
+	height: 100%;
+
+}
+.right {
+	width: 24%;
+	height: 100%;
+
+}
+.model{
+	width: 40%;
+	position: absolute;
+	left: 40%;
+}
+.ground{
+	width: 50%;
+	position: absolute;
+	left: 32%;
+}
+.display img{
+	width: 100%;
+}
+.model {
+	top: 2%;
+	z-index: 2;
+}
+.ground {
+	top: 30%;
+	z-index: 1;
+}
+.right #select {
+	font-size: 12px;
+	margin-top: 10px;
+}
+#select select {
+	width: 55%;
+	height: 24px;
+	line-height: 24px;
+	text-align: center;
+	background-color: #a19f9f;
+}
+
+.right .items {
+	width: 80%;
+	margin: 0 auto;
+}
+.right .item {
+	width: 100%;
+	height: 160px;
+	background: red;
+}
+.left {
+	display: flex;
+	justify-content: center;
+}
+.left .items {
+	width: 35%;
+	height: 100%;
+	background: red;
+}
+.left .items_left {
+	margin-right: 20px;
+}
+
